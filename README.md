@@ -10,4 +10,5 @@
 - JQuery
 
 ![screenshot of application](./assets/images/Scheduler-Screenshot.png)
+
 [Work Day Scheduler](https://dennisdown.github.io/scheduler/)
