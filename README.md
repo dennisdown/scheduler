@@ -36,4 +36,4 @@
 
 ![screenshot of application](./assets/images/scheduler.png)
 
-[Work Day Scheduler](https://dennisdown.github.io/scheduler/)
+### URL [Work Day Scheduler](https://dennisdown.github.io/scheduler/)
