@@ -9,6 +9,6 @@
 - Bootstrap
 - JQuery
 
-![screenshot of application](./develop./assets/images/Scheduler-Screenshot.png)
+![screenshot of application](./assets/images/scheduler.png)
 
 [Work Day Scheduler](https://dennisdown.github.io/scheduler/)
